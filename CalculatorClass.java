@@ -8,7 +8,7 @@ public class CalculatorClass
 {
 	public static void main(String args[])
 	{
-		Calculator c = new calculator();
+		Calculator c = new Calculator();
 		System.out.println("Result of addition: "+c.add(20,10));
 	}
 }
